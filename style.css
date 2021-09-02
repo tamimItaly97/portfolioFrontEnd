@@ -3,3 +3,9 @@ h1{
     text-shadow: 5px 5px 10px;
     text-decoration: underline;
 }
+
+div{
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px 10px red;
+
+}
