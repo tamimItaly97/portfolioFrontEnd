@@ -1,14 +1,4 @@
 @charset "utf-8";
-/*
-Template Name: Pentwist
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Layout CSS
-*/
-
 @import url("fontawesome-free/css/all.min.css");
 @import url("framework.css");
 
@@ -321,7 +311,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#D24130 !important;}
 .row5, .row5 a{color:#A8A8A8; background-color:#202020;}
 .row5{border-color:rgba(255,255,255,.2);}
 
-.coloured{color:#FFFFFF; background-color:#D24130;}
+.coloured{color:#FFFFFF; background-color:#302d2d;}
 
 
 /* Contact Details */
