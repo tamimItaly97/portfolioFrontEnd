@@ -28,12 +28,6 @@ img {
     border-radius: 10px 10px 10px 10px;
     box-shadow: 5px 5px 10px black;
     }
-    /* .icon {
-    font-size: 110px;
-    display: flex;
-    justify-content: center;
-    color: #181504a4;
-    } */
     button {
     color: white;
     padding: 14px 0;
@@ -70,3 +64,14 @@ img {
     display: block;
     float: none;
    }
+  }
+  .coloured{
+    background-color: rgb(53, 53, 53);
+  }
+ .btn{
+  background-color: rgb(41, 41, 41);
+  border: 2px solid black;
+ }
+ #heading {
+  text-shadow: 5px 5px 10px white;
+ }
